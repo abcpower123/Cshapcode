@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\NetworkingDemo\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\NetworkingDemo\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\NetworkingDemo\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\NetworkingDemo\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\NetworkingDemo\ClientApp\obj\Debug\ClientApp.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\NetworkingDemo\ClientApp\obj\Debug\ClientApp.pdb

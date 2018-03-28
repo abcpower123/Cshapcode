@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\EncryptFileDemo\EncryptFileDemo\bin\Debug\EncryptFileDemo.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\EncryptFileDemo\EncryptFileDemo\bin\Debug\EncryptFileDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\EncryptFileDemo\EncryptFileDemo\bin\Debug\EncryptFileDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\EncryptFileDemo\EncryptFileDemo\obj\Debug\EncryptFileDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\EncryptFileDemo\EncryptFileDemo\obj\Debug\EncryptFileDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\EncryptFileDemo\EncryptFileDemo\obj\Debug\EncryptFileDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\EncryptFileDemo\EncryptFileDemo\obj\Debug\EncryptFileDemo.pdb

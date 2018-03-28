@@ -1,0 +1,12 @@
+D:\C#\sourcecodethay\HaiRomShop\HaiRomShop\bin\Debug\HaiRomShop.exe.config
+D:\C#\sourcecodethay\HaiRomShop\HaiRomShop\bin\Debug\HaiRomShop.exe
+D:\C#\sourcecodethay\HaiRomShop\HaiRomShop\bin\Debug\HaiRomShop.pdb
+D:\C#\sourcecodethay\HaiRomShop\HaiRomShop\obj\Debug\HaiRomShop.csprojResolveAssemblyReference.cache
+D:\C#\sourcecodethay\HaiRomShop\HaiRomShop\obj\Debug\HaiRomShop.frmLogin.resources
+D:\C#\sourcecodethay\HaiRomShop\HaiRomShop\obj\Debug\HaiRomShop.frmMain.resources
+D:\C#\sourcecodethay\HaiRomShop\HaiRomShop\obj\Debug\HaiRomShop.frmOrderDetails.resources
+D:\C#\sourcecodethay\HaiRomShop\HaiRomShop\obj\Debug\HaiRomShop.Properties.Resources.resources
+D:\C#\sourcecodethay\HaiRomShop\HaiRomShop\obj\Debug\HaiRomShop.csproj.GenerateResource.Cache
+D:\C#\sourcecodethay\HaiRomShop\HaiRomShop\obj\Debug\HaiRomShop.csproj.CoreCompileInputs.cache
+D:\C#\sourcecodethay\HaiRomShop\HaiRomShop\obj\Debug\HaiRomShop.exe
+D:\C#\sourcecodethay\HaiRomShop\HaiRomShop\obj\Debug\HaiRomShop.pdb

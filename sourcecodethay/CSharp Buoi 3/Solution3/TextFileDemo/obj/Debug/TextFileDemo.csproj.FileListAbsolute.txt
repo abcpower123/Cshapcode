@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Solution3\TextFileDemo\bin\Debug\TextFileDemo.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Solution3\TextFileDemo\bin\Debug\TextFileDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Solution3\TextFileDemo\bin\Debug\TextFileDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Solution3\TextFileDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Solution3\TextFileDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Solution3\TextFileDemo\obj\Debug\TextFileDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Solution3\TextFileDemo\obj\Debug\TextFileDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Solution3\TextFileDemo\obj\Debug\TextFileDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Solution3\TextFileDemo\obj\Debug\TextFileDemo.pdb

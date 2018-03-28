@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2017\Projects\LINQtoSQLDemo\LINQtoSQLDemo\bin\Debug\LINQtoSQLDemo.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\LINQtoSQLDemo\LINQtoSQLDemo\bin\Debug\LINQtoSQLDemo.exe
+c:\users\administrator\documents\visual studio 2017\Projects\LINQtoSQLDemo\LINQtoSQLDemo\bin\Debug\LINQtoSQLDemo.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\LINQtoSQLDemo\LINQtoSQLDemo\obj\Debug\LINQtoSQLDemo.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\LINQtoSQLDemo\LINQtoSQLDemo\obj\Debug\LINQtoSQLDemo.csproj.CoreCompileInputs.cache
+c:\users\administrator\documents\visual studio 2017\Projects\LINQtoSQLDemo\LINQtoSQLDemo\obj\Debug\LINQtoSQLDemo.exe
+c:\users\administrator\documents\visual studio 2017\Projects\LINQtoSQLDemo\LINQtoSQLDemo\obj\Debug\LINQtoSQLDemo.pdb

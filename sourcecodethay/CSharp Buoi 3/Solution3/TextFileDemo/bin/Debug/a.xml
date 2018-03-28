@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Id>1</Id>
+    <StudentName>abc</StudentName>
+    <Birthday>2000-01-01T00:00:00</Birthday>
+  </Student>
+  <Student>
+    <Id>2</Id>
+    <StudentName>dfgf</StudentName>
+    <Birthday>1990-02-02T00:00:00</Birthday>
+  </Student>
+  <Student>
+    <Id>5</Id>
+    <StudentName>fjghdfkj</StudentName>
+    <Birthday>2000-05-05T00:00:00</Birthday>
+  </Student>
+</ArrayOfStudent>

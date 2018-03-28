@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\HtmlScanDemo\HtmlScanDemo\bin\Debug\HtmlScanDemo.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\HtmlScanDemo\HtmlScanDemo\bin\Debug\HtmlScanDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\HtmlScanDemo\HtmlScanDemo\bin\Debug\HtmlScanDemo.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\HtmlScanDemo\HtmlScanDemo\obj\Debug\HtmlScanDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\HtmlScanDemo\HtmlScanDemo\obj\Debug\HtmlScanDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\HtmlScanDemo\HtmlScanDemo\obj\Debug\HtmlScanDemo.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\HtmlScanDemo\HtmlScanDemo\obj\Debug\HtmlScanDemo.pdb
+D:\C#\sourcecodethay\CSharp Buoi 4\HtmlScanDemo\HtmlScanDemo\bin\Debug\HtmlScanDemo.exe.config
+D:\C#\sourcecodethay\CSharp Buoi 4\HtmlScanDemo\HtmlScanDemo\bin\Debug\HtmlScanDemo.exe
+D:\C#\sourcecodethay\CSharp Buoi 4\HtmlScanDemo\HtmlScanDemo\bin\Debug\HtmlScanDemo.pdb
+D:\C#\sourcecodethay\CSharp Buoi 4\HtmlScanDemo\HtmlScanDemo\obj\Debug\HtmlScanDemo.csprojResolveAssemblyReference.cache
+D:\C#\sourcecodethay\CSharp Buoi 4\HtmlScanDemo\HtmlScanDemo\obj\Debug\HtmlScanDemo.csproj.CoreCompileInputs.cache
+D:\C#\sourcecodethay\CSharp Buoi 4\HtmlScanDemo\HtmlScanDemo\obj\Debug\HtmlScanDemo.exe
+D:\C#\sourcecodethay\CSharp Buoi 4\HtmlScanDemo\HtmlScanDemo\obj\Debug\HtmlScanDemo.pdb
