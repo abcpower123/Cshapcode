@@ -1,0 +1,7 @@
+D:\C#\source\Nhaccuatui\Nhac\bin\Debug\Nhac.exe.config
+D:\C#\source\Nhaccuatui\Nhac\bin\Debug\Nhac.exe
+D:\C#\source\Nhaccuatui\Nhac\bin\Debug\Nhac.pdb
+D:\C#\source\Nhaccuatui\Nhac\obj\Debug\Nhac.csprojResolveAssemblyReference.cache
+D:\C#\source\Nhaccuatui\Nhac\obj\Debug\Nhac.csproj.CoreCompileInputs.cache
+D:\C#\source\Nhaccuatui\Nhac\obj\Debug\Nhac.exe
+D:\C#\source\Nhaccuatui\Nhac\obj\Debug\Nhac.pdb
