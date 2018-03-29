@@ -1,0 +1,9 @@
+D:\C#\source\Buoi3\TestFileDemo\bin\Debug\TestFileDemo.exe.config
+D:\C#\source\Buoi3\TestFileDemo\bin\Debug\TestFileDemo.exe
+D:\C#\source\Buoi3\TestFileDemo\bin\Debug\TestFileDemo.pdb
+D:\C#\source\Buoi3\TestFileDemo\obj\Debug\TestFileDemo.csprojResolveAssemblyReference.cache
+D:\C#\source\Buoi3\TestFileDemo\obj\Debug\TestFileDemo.csproj.CoreCompileInputs.cache
+D:\C#\source\Buoi3\TestFileDemo\obj\Debug\TestFileDemo.exe
+D:\C#\source\Buoi3\TestFileDemo\obj\Debug\TestFileDemo.pdb
+D:\C#\source\Buoi3\TestFileDemo\bin\Debug\Newtonsoft.Json.dll
+D:\C#\source\Buoi3\TestFileDemo\bin\Debug\Newtonsoft.Json.xml

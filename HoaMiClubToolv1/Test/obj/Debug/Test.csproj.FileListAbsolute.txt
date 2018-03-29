@@ -1,0 +1,7 @@
+D:\C#\source\HoaMiClubToolv1\Test\bin\Debug\Test.exe.config
+D:\C#\source\HoaMiClubToolv1\Test\bin\Debug\Test.exe
+D:\C#\source\HoaMiClubToolv1\Test\bin\Debug\Test.pdb
+D:\C#\source\HoaMiClubToolv1\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\C#\source\HoaMiClubToolv1\Test\obj\Debug\Test.exe
+D:\C#\source\HoaMiClubToolv1\Test\obj\Debug\Test.pdb
+D:\C#\source\HoaMiClubToolv1\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

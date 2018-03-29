@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfSearchResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SearchResult>
+    <name>Ánh Sao Băng</name>
+    <author>Sỹ Luân;</author>
+    <singer>Phạm Quỳnh Anh;</singer>
+    <href>http://lyric.tkaraoke.comng.html</href>
+  </SearchResult>
+  <SearchResult>
+    <name>Em Là Ánh Sao Băng</name>
+    <author>Nhật Tinh Anh;</author>
+    <singer>Lê Dũng;Nhật Tinh Anh;</singer>
+    <href>http://lyric.tkaraoke.comsao_bang.html</href>
+  </SearchResult>
+  <SearchResult>
+    <name>Ánh Sao Băng Cô Đơn</name>
+    <author>Cao Quân Kiệt;</author>
+    <singer>Cao Quân Kiệt;Quốc Thái;Chế Đình Vĩnh Phú;</singer>
+    <href>http://lyric.tkaraoke.comng_co_don.html</href>
+  </SearchResult>
+</ArrayOfSearchResult>

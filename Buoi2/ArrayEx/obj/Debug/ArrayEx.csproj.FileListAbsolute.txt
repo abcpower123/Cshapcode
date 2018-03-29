@@ -1,0 +1,7 @@
+D:\C#\source\Buoi2\ArrayEx\bin\Debug\ArrayEx.exe.config
+D:\C#\source\Buoi2\ArrayEx\bin\Debug\ArrayEx.exe
+D:\C#\source\Buoi2\ArrayEx\bin\Debug\ArrayEx.pdb
+D:\C#\source\Buoi2\ArrayEx\obj\Debug\ArrayEx.csprojResolveAssemblyReference.cache
+D:\C#\source\Buoi2\ArrayEx\obj\Debug\ArrayEx.csproj.CoreCompileInputs.cache
+D:\C#\source\Buoi2\ArrayEx\obj\Debug\ArrayEx.exe
+D:\C#\source\Buoi2\ArrayEx\obj\Debug\ArrayEx.pdb

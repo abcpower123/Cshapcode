@@ -1,0 +1,7 @@
+D:\C#\source\AsyncExample\AsyncExample\bin\Debug\AsyncExample.exe.config
+D:\C#\source\AsyncExample\AsyncExample\bin\Debug\AsyncExample.exe
+D:\C#\source\AsyncExample\AsyncExample\bin\Debug\AsyncExample.pdb
+D:\C#\source\AsyncExample\AsyncExample\obj\Debug\AsyncExample.csprojResolveAssemblyReference.cache
+D:\C#\source\AsyncExample\AsyncExample\obj\Debug\AsyncExample.csproj.CoreCompileInputs.cache
+D:\C#\source\AsyncExample\AsyncExample\obj\Debug\AsyncExample.exe
+D:\C#\source\AsyncExample\AsyncExample\obj\Debug\AsyncExample.pdb

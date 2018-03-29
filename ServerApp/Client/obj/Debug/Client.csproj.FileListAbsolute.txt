@@ -1,0 +1,9 @@
+D:\C#\source\ServerApp\Client\bin\Debug\Client.exe.config
+D:\C#\source\ServerApp\Client\bin\Debug\Client.exe
+D:\C#\source\ServerApp\Client\bin\Debug\Client.pdb
+D:\C#\source\ServerApp\Client\bin\Debug\RemotingLib.dll
+D:\C#\source\ServerApp\Client\bin\Debug\RemotingLib.pdb
+D:\C#\source\ServerApp\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\C#\source\ServerApp\Client\obj\Debug\Client.exe
+D:\C#\source\ServerApp\Client\obj\Debug\Client.pdb
+D:\C#\source\ServerApp\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

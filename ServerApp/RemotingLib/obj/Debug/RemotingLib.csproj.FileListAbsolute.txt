@@ -1,0 +1,6 @@
+D:\C#\source\ServerApp\RemotingLib\bin\Debug\RemotingLib.dll
+D:\C#\source\ServerApp\RemotingLib\bin\Debug\RemotingLib.pdb
+D:\C#\source\ServerApp\RemotingLib\obj\Debug\RemotingLib.csprojResolveAssemblyReference.cache
+D:\C#\source\ServerApp\RemotingLib\obj\Debug\RemotingLib.csproj.CoreCompileInputs.cache
+D:\C#\source\ServerApp\RemotingLib\obj\Debug\RemotingLib.dll
+D:\C#\source\ServerApp\RemotingLib\obj\Debug\RemotingLib.pdb

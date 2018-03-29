@@ -1,0 +1,6 @@
+D:\C#\source\NetworkingDemo\ClientApp\bin\Debug\ClientApp.exe.config
+D:\C#\source\NetworkingDemo\ClientApp\bin\Debug\ClientApp.exe
+D:\C#\source\NetworkingDemo\ClientApp\bin\Debug\ClientApp.pdb
+D:\C#\source\NetworkingDemo\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\C#\source\NetworkingDemo\ClientApp\obj\Debug\ClientApp.exe
+D:\C#\source\NetworkingDemo\ClientApp\obj\Debug\ClientApp.pdb

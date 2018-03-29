@@ -1,0 +1,7 @@
+D:\C#\source\SecurityDemo\SecurityDemo\obj\Debug\SecurityDemo.csprojResolveAssemblyReference.cache
+D:\C#\source\SecurityDemo\SecurityDemo\obj\Debug\SecurityDemo.csproj.CoreCompileInputs.cache
+D:\C#\source\SecurityDemo\SecurityDemo\bin\Debug\SecurityDemo.exe.config
+D:\C#\source\SecurityDemo\SecurityDemo\bin\Debug\SecurityDemo.exe
+D:\C#\source\SecurityDemo\SecurityDemo\bin\Debug\SecurityDemo.pdb
+D:\C#\source\SecurityDemo\SecurityDemo\obj\Debug\SecurityDemo.exe
+D:\C#\source\SecurityDemo\SecurityDemo\obj\Debug\SecurityDemo.pdb

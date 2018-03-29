@@ -1,0 +1,7 @@
+D:\C#\source\LINQtoSQLDemo\LINQtoSQLDemo\bin\Debug\LINQtoSQLDemo.exe.config
+D:\C#\source\LINQtoSQLDemo\LINQtoSQLDemo\bin\Debug\LINQtoSQLDemo.exe
+D:\C#\source\LINQtoSQLDemo\LINQtoSQLDemo\bin\Debug\LINQtoSQLDemo.pdb
+D:\C#\source\LINQtoSQLDemo\LINQtoSQLDemo\obj\Debug\LINQtoSQLDemo.csprojResolveAssemblyReference.cache
+D:\C#\source\LINQtoSQLDemo\LINQtoSQLDemo\obj\Debug\LINQtoSQLDemo.csproj.CoreCompileInputs.cache
+D:\C#\source\LINQtoSQLDemo\LINQtoSQLDemo\obj\Debug\LINQtoSQLDemo.exe
+D:\C#\source\LINQtoSQLDemo\LINQtoSQLDemo\obj\Debug\LINQtoSQLDemo.pdb

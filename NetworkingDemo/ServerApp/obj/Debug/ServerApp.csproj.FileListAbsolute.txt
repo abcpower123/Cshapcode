@@ -1,0 +1,7 @@
+D:\C#\source\NetworkingDemo\ServerApp\bin\Debug\ServerApp.exe.config
+D:\C#\source\NetworkingDemo\ServerApp\bin\Debug\ServerApp.exe
+D:\C#\source\NetworkingDemo\ServerApp\bin\Debug\ServerApp.pdb
+D:\C#\source\NetworkingDemo\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+D:\C#\source\NetworkingDemo\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+D:\C#\source\NetworkingDemo\ServerApp\obj\Debug\ServerApp.exe
+D:\C#\source\NetworkingDemo\ServerApp\obj\Debug\ServerApp.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CayThuMuc", "CayThuMuc\CayThuMuc.csproj", "{5C0D8234-791D-4FC5-90C2-A8087F2F6B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFileDemo", "TestFileDemo\TestFileDemo.csproj", "{742CDB0B-9593-46AE-936F-E4C63CEC5FC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary", "Binary\Binary.csproj", "{C9E546EA-26F8-4ED9-99C6-DC3AAE32324C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C0D8234-791D-4FC5-90C2-A8087F2F6B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0D8234-791D-4FC5-90C2-A8087F2F6B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0D8234-791D-4FC5-90C2-A8087F2F6B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0D8234-791D-4FC5-90C2-A8087F2F6B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{742CDB0B-9593-46AE-936F-E4C63CEC5FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742CDB0B-9593-46AE-936F-E4C63CEC5FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742CDB0B-9593-46AE-936F-E4C63CEC5FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742CDB0B-9593-46AE-936F-E4C63CEC5FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E546EA-26F8-4ED9-99C6-DC3AAE32324C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E546EA-26F8-4ED9-99C6-DC3AAE32324C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E546EA-26F8-4ED9-99C6-DC3AAE32324C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E546EA-26F8-4ED9-99C6-DC3AAE32324C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ED2C297-99DD-461F-A013-C3DD7F8386E5}
+	EndGlobalSection
+EndGlobal

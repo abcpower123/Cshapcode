@@ -1,0 +1,7 @@
+D:\C#\source\ThiThu_Hao\ThiThu_Hao\bin\Debug\ThiThu_Hao.exe.config
+D:\C#\source\ThiThu_Hao\ThiThu_Hao\bin\Debug\ThiThu_Hao.exe
+D:\C#\source\ThiThu_Hao\ThiThu_Hao\bin\Debug\ThiThu_Hao.pdb
+D:\C#\source\ThiThu_Hao\ThiThu_Hao\obj\Debug\ThiThu_Hao.csprojResolveAssemblyReference.cache
+D:\C#\source\ThiThu_Hao\ThiThu_Hao\obj\Debug\ThiThu_Hao.csproj.CoreCompileInputs.cache
+D:\C#\source\ThiThu_Hao\ThiThu_Hao\obj\Debug\ThiThu_Hao.exe
+D:\C#\source\ThiThu_Hao\ThiThu_Hao\obj\Debug\ThiThu_Hao.pdb

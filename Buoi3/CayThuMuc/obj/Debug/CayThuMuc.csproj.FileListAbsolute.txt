@@ -1,0 +1,7 @@
+D:\C#\source\Buoi3\CayThuMuc\bin\Debug\CayThuMuc.exe.config
+D:\C#\source\Buoi3\CayThuMuc\bin\Debug\CayThuMuc.exe
+D:\C#\source\Buoi3\CayThuMuc\bin\Debug\CayThuMuc.pdb
+D:\C#\source\Buoi3\CayThuMuc\obj\Debug\CayThuMuc.csprojResolveAssemblyReference.cache
+D:\C#\source\Buoi3\CayThuMuc\obj\Debug\CayThuMuc.csproj.CoreCompileInputs.cache
+D:\C#\source\Buoi3\CayThuMuc\obj\Debug\CayThuMuc.exe
+D:\C#\source\Buoi3\CayThuMuc\obj\Debug\CayThuMuc.pdb

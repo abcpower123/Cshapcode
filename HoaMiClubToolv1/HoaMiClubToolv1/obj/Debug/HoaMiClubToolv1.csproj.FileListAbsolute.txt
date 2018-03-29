@@ -1,0 +1,13 @@
+D:\C#\source\HoaMiClubToolv1\HoaMiClubToolv1\obj\Debug\HoaMiClubToolv1.Properties.Resources.resources
+D:\C#\source\HoaMiClubToolv1\HoaMiClubToolv1\obj\Debug\HoaMiClubToolv1.csproj.GenerateResource.Cache
+D:\C#\source\HoaMiClubToolv1\HoaMiClubToolv1\obj\Debug\HoaMiClubToolv1.csproj.CoreCompileInputs.cache
+D:\C#\source\HoaMiClubToolv1\HoaMiClubToolv1\obj\Debug\HoaMiClubToolv1.csprojResolveAssemblyReference.cache
+D:\C#\source\HoaMiClubToolv1\HoaMiClubToolv1\obj\Debug\Interop.ACTIVEXLib.dll
+D:\C#\source\HoaMiClubToolv1\HoaMiClubToolv1\obj\Debug\HoaMiClubToolv1.csproj.ResolveComReference.cache
+D:\C#\source\HoaMiClubToolv1\HoaMiClubToolv1\obj\Debug\HoaMiClubToolv1.frmMain.resources
+D:\C#\source\HoaMiClubToolv1\HoaMiClubToolv1\obj\Debug\HoaMiClubToolv1.frmSetting.resources
+D:\C#\source\HoaMiClubToolv1\HoaMiClubToolv1\bin\Debug\Hoa Mi Club tool lay loi bai hat.exe.config
+D:\C#\source\HoaMiClubToolv1\HoaMiClubToolv1\bin\Debug\Hoa Mi Club tool lay loi bai hat.exe
+D:\C#\source\HoaMiClubToolv1\HoaMiClubToolv1\bin\Debug\Hoa Mi Club tool lay loi bai hat.pdb
+D:\C#\source\HoaMiClubToolv1\HoaMiClubToolv1\obj\Debug\Hoa Mi Club tool lay loi bai hat.exe
+D:\C#\source\HoaMiClubToolv1\HoaMiClubToolv1\obj\Debug\Hoa Mi Club tool lay loi bai hat.pdb

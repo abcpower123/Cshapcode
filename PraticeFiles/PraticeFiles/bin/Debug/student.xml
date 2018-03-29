@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StudentName>Dang Thanh Hao</StudentName>
+  <Batch>135</Batch>
+  <Email>123</Email>
+  <Address>321</Address>
+  <Birtday>1998-04-15T00:00:00</Birtday>
+  <Id>5</Id>
+</Student>

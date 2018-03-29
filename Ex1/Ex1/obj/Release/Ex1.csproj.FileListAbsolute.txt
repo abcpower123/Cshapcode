@@ -1,0 +1,6 @@
+D:\C#\source\Ex1\Ex1\bin\Release\Ex1.exe.config
+D:\C#\source\Ex1\Ex1\bin\Release\Ex1.exe
+D:\C#\source\Ex1\Ex1\bin\Release\Ex1.pdb
+D:\C#\source\Ex1\Ex1\obj\Release\Ex1.csproj.CoreCompileInputs.cache
+D:\C#\source\Ex1\Ex1\obj\Release\Ex1.exe
+D:\C#\source\Ex1\Ex1\obj\Release\Ex1.pdb

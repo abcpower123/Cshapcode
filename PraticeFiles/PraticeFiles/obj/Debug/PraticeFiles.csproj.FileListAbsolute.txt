@@ -1,0 +1,9 @@
+D:\C#\source\PraticeFiles\PraticeFiles\bin\Debug\PraticeFiles.exe.config
+D:\C#\source\PraticeFiles\PraticeFiles\bin\Debug\PraticeFiles.exe
+D:\C#\source\PraticeFiles\PraticeFiles\bin\Debug\PraticeFiles.pdb
+D:\C#\source\PraticeFiles\PraticeFiles\obj\Debug\PraticeFiles.csprojResolveAssemblyReference.cache
+D:\C#\source\PraticeFiles\PraticeFiles\obj\Debug\PraticeFiles.csproj.CoreCompileInputs.cache
+D:\C#\source\PraticeFiles\PraticeFiles\obj\Debug\PraticeFiles.exe
+D:\C#\source\PraticeFiles\PraticeFiles\obj\Debug\PraticeFiles.pdb
+D:\C#\source\PraticeFiles\PraticeFiles\bin\Debug\Newtonsoft.Json.dll
+D:\C#\source\PraticeFiles\PraticeFiles\bin\Debug\Newtonsoft.Json.xml

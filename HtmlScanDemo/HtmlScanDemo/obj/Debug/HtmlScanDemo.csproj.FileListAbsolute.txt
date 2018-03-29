@@ -1,0 +1,7 @@
+D:\C#\source\HtmlScanDemo\HtmlScanDemo\bin\Debug\HtmlScanDemo.exe.config
+D:\C#\source\HtmlScanDemo\HtmlScanDemo\bin\Debug\HtmlScanDemo.exe
+D:\C#\source\HtmlScanDemo\HtmlScanDemo\bin\Debug\HtmlScanDemo.pdb
+D:\C#\source\HtmlScanDemo\HtmlScanDemo\obj\Debug\HtmlScanDemo.csprojResolveAssemblyReference.cache
+D:\C#\source\HtmlScanDemo\HtmlScanDemo\obj\Debug\HtmlScanDemo.csproj.CoreCompileInputs.cache
+D:\C#\source\HtmlScanDemo\HtmlScanDemo\obj\Debug\HtmlScanDemo.exe
+D:\C#\source\HtmlScanDemo\HtmlScanDemo\obj\Debug\HtmlScanDemo.pdb
