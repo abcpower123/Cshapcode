@@ -1,0 +1,2 @@
+D:\C#\Cshapcode\Buoi3\Binary\obj\Debug\Binary.csprojResolveAssemblyReference.cache
+D:\C#\Cshapcode\Buoi3\Binary\obj\Debug\Binary.csproj.CoreCompileInputs.cache
